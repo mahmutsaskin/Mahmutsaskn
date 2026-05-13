@@ -17,7 +17,7 @@
 |---|---|---|
 | **Neon Strike: ULTIMATE** | Tarayıcı tabanlı, sürükleyici bir aksiyon oyunu. Modern animasyonlar ve neon grafikleriyle bir Chrome Eklentisi olarak geliştirildi. | `HTML5 Canvas`, `JavaScript` |
 | **NOVA AI Asistanı** | Kullanıcı komutlarını algılayarak sesli yanıt veren, günlük etkileşimleri otomatikleştiren Python tabanlı kişisel yapay zeka asistanı. | `Python`, `Voice Recognition` |
-| **ARÜ Öğrenci Eklentisi** | Üniversite öğrencilerinin güncel yemek menüsüne ve üniversite duyurularına anında ulaşmasını sağlayan pratik tarayıcı aracı. | `HTML/CSS`, `JavaScript` |
+| **ARÜ Öğrenci Eklentisi** | Üniversite öğrencilerine duyuru ve menüleri sunan tarayıcı aracı. | `HTML/CSS`, `JavaScript` |
 | **El İşim Platformu** | Kadınların el emeği ürünlerini satabileceği, modern arayüze sahip C2C pazar yeri platformu. *(Geliştirme Aşamasında)* | `Full-Stack` |
 | **Kişisel Portföy** | Geliştirici kimliğimi yansıtan, modern ve minimalist detaylara sahip web platformu. | `Web`, `Netlify` |
 
@@ -47,20 +47,25 @@
 ---
 
 <h3 align="center">Bana Ulaşın | Connect with me:</h3>
+<br/>
 <p align="center">
   <a href="https://mahmutsaskin.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=googlechrome&logoColor=00f2fe" alt="Website" height="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mahmutsaskin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" height="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.behance.net/mahmutsaskin" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/Behance-0D1117?style=flat&logo=behance&logoColor=1769ff" alt="Behance" height="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/mahmutsaskn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" height="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mahmutsaskn0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=D14836" alt="Email" height="28"/>
   </a>
 </p>
