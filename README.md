@@ -2,28 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mahmut%20Şaşkın&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20&%20UI/UX%20Enthusiast&descAlignY=55" />
 </div>
 
-## 👨‍💻 Hakkımda | About Me
-- 🎓 Ardahan Üniversitesi'nde Bilgisayar Programcılığı son sınıf öğrencisiyim.
-- 💡 Modern UI/UX tasarımları (Glassmorphism, Minimalist) ve oyun geliştirme süreçlerine büyük ilgi duyuyorum.
-- 🚀 Şu anda **C#, Python, React Native, TypeScript, Node.js ve SQL** teknolojileri üzerinde aktif olarak çalışıyorum.
-- 🎯 Hedefim: Kullanıcı deneyimini merkeze alan, estetik ve performanslı projeler üretmek.
-- 🌍 Portföy siteme göz atın: **[mahmutsaskin.com](https://mahmutsaskin.com)**
+## 👨‍💻 About Me
+- 🎓 Computer Programming graduate from Ardahan University.
+- 💡 Highly interested in modern UI/UX designs (Glassmorphism, Minimalist) and game development processes.
+- 🚀 Currently actively working with **C#, Python, React Native, TypeScript, Node.js, and SQL**.
+- 🎯 My Goal: To build aesthetic and high-performance projects centered around user experience.
+- 🌍 Check out my portfolio: **[mahmutsaskin.com](https://mahmutsaskin.com)**
 
 ---
 
-## 🚀 Öne Çıkan Projelerim | Featured Projects
+## 🚀 Featured Projects
 
-| Proje | Açıklama | Teknolojiler |
+| Project | Description | Technologies |
 |---|---|---|
-| **Neon Strike: ULTIMATE** | Tarayıcı tabanlı, sürükleyici bir aksiyon oyunu. Modern animasyonlar ve neon grafikleriyle bir Chrome Eklentisi olarak geliştirildi. | `HTML5 Canvas`, `JavaScript` |
-| **NOVA AI Asistanı** | Kullanıcı komutlarını algılayarak sesli yanıt veren, günlük etkileşimleri otomatikleştiren Python tabanlı kişisel yapay zeka asistanı. | `Python`, `Voice Recognition` |
-| **ARÜ Öğrenci Eklentisi** | Üniversite öğrencilerine duyuru ve menüleri sunan tarayıcı aracı. | `HTML/CSS`, `JavaScript` |
-| **El İşim Platformu** | Kadınların el emeği ürünlerini satabileceği, modern arayüze sahip C2C pazar yeri platformu. *(Geliştirme Aşamasında)* | `Full-Stack` |
-| **Kişisel Portföy** | Geliştirici kimliğimi yansıtan, modern ve minimalist detaylara sahip web platformu. | `Web`, `Netlify` |
+| **SubList - Subscription Management** | A mobile application that allows users to easily track, manage their digital subscriptions, and control their expenses from a single platform. | `React Native`, `TypeScript` |
+| **Neon Strike: ULTIMATE** | A browser-based, immersive action game. Developed as a Chrome Extension with modern animations and neon graphics. | `HTML5 Canvas`, `JavaScript` |
+| **NOVA AI Assistant** | A Python-based personal AI assistant that detects user commands and provides voice responses, automating daily interactions. | `Python`, `Voice Recognition` |
+| **ARÜ Student Extension** | A browser tool that provides university announcements and dining menus to students. | `HTML/CSS`, `JavaScript` |
+| **El İşim Platform** | A C2C marketplace platform with a modern interface where women can sell their handmade products. *(In Development)* | `Full-Stack` |
+| **Personal Portfolio** | A web platform with modern and minimalist details reflecting my developer identity. | `Web`, `Netlify` |
 
 ---
 
-## 🛠 Teknolojiler & Araçlar | Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +34,7 @@
 
 ---
 
-## 📊 GitHub İstatistikleri | GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmutsaskin&show_icons=true&theme=rad-neon&hide_border=true&bg_color=0D1117" height="165" alt="stats graph" />
@@ -46,7 +47,7 @@
 
 ---
 
-<h3 align="center">Bana Ulaşın | Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <br/>
 <p align="center">
   <a href="https://mahmutsaskin.com" target="_blank">
