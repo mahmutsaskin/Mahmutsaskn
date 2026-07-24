@@ -6,8 +6,8 @@
 - 🎓 Computer Programming graduate from Ardahan University.
 - 💡 Highly interested in modern UI/UX designs (Glassmorphism, Minimalist) and game development processes.
 - 🚀 Currently actively working with **C#, Python, React Native, TypeScript, Node.js, and SQL**.
-- 🎯 My Goal: To build aesthetic and high-performance projects centered around user experience.
-- 🌍 Check out my portfolio: **[mahmutsaskin.com](https://mahmutsaskin.com)**
+- 🎯 My Goal: To build aesthetic and high-performance projects centered around the user experience.
+- 🌍 Check out my portfolio website: **[mahmutsaskin.com](https://mahmutsaskin.com)**
 
 ---
 
@@ -15,12 +15,11 @@
 
 | Project | Description | Technologies |
 |---|---|---|
-| **SubList - Subscription Management** | A mobile application that allows users to easily track, manage their digital subscriptions, and control their expenses from a single platform. | `React Native`, `TypeScript` |
-| **Neon Strike: ULTIMATE** | A browser-based, immersive action game. Developed as a Chrome Extension with modern animations and neon graphics. | `HTML5 Canvas`, `JavaScript` |
-| **NOVA AI Assistant** | A Python-based personal AI assistant that detects user commands and provides voice responses, automating daily interactions. | `Python`, `Voice Recognition` |
-| **ARÜ Student Extension** | A browser tool that provides university announcements and dining menus to students. | `HTML/CSS`, `JavaScript` |
-| **El İşim Platform** | A C2C marketplace platform with a modern interface where women can sell their handmade products. *(In Development)* | `Full-Stack` |
-| **Personal Portfolio** | A web platform with modern and minimalist details reflecting my developer identity. | `Web`, `Netlify` |
+| [**SubList - Subscription Management**](https://github.com/mahmutsaskin/SubList) | A mobile application that allows users to easily track and manage their digital subscriptions, and keep their expenses under control from a single platform. | `React Native`, `TypeScript` |
+| [**Neon Strike: ULTIMATE**](https://github.com/mahmutsaskin/Neon-Strike-Ultimate) | A browser-based, immersive action game. Developed as a Chrome Extension with modern animations and neon graphics. | `HTML5 Canvas`, `JavaScript` |
+| [**NOVA AI Assistant**](https://github.com/mahmutsaskin/NOVA-AI) | A Python-based personal AI assistant that detects user commands and provides voice responses, automating daily interactions. | `Python`, `Voice Recognition` |
+| [**ARU Student Extension**](https://github.com/mahmutsaskin/ARU-Duyuru-Eklentisi) | A browser extension that provides instant access to current dining menus and university announcements for students. | `HTML/CSS`, `JavaScript` |
+| [**Personal Portfolio**](https://mahmutsaskin.com) | A web platform with modern and minimalist details that reflects my developer identity. | `Web`, `Netlify` |
 
 ---
 
@@ -57,10 +56,7 @@
   <a href="https://linkedin.com/in/mahmutsaskin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" height="28"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.behance.net/mahmutsaskin" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0D1117?style=flat&logo=behance&logoColor=1769ff" alt="Behance" height="28"/>
-  </a>
+ 
   &nbsp;&nbsp;
   <a href="https://instagram.com/mahmutsaskn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" height="28"/>
