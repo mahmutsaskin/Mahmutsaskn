@@ -41,7 +41,8 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmutsaskin&theme=rad-neon&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- Bu URL güncellendi, heroku yerine vercel kullanıldı -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mahmutsaskin&theme=rad-neon&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -56,7 +57,10 @@
   <a href="https://linkedin.com/in/mahmutsaskin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" height="28"/>
   </a>
- 
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/mahmutsaskin" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0D1117?style=flat&logo=behance&logoColor=1769ff" alt="Behance" height="28"/>
+  </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/mahmutsaskn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" height="28"/>
@@ -66,3 +70,4 @@
     <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=D14836" alt="Email" height="28"/>
   </a>
 </p>
+```http://googleusercontent.com/image_generation_content/433
