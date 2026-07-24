@@ -35,15 +35,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmutsaskin&show_icons=true&theme=rad-neon&hide_border=true&bg_color=0D1117" height="165" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmutsaskin&show_icons=true&theme=rad-neon&hide_border=true&layout=compact&bg_color=0D1117" height="165" alt="languages graph" />
-</div>
-<br/>
-<div align="center">
-  <!-- Bu URL güncellendi, heroku yerine vercel kullanıldı -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mahmutsaskin&theme=rad-neon&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahmutsaskin&theme=rad-neon&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -70,4 +68,3 @@
     <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=D14836" alt="Email" height="28"/>
   </a>
 </p>
-```http://googleusercontent.com/image_generation_content/433
